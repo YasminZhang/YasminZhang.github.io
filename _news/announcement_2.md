@@ -1,8 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+date: 2024-04
 inline: true
 ---
 
-A short 
+One paper on [stable diffusion](https://openreview.net/forum?id=XFYqhBBB61) was accepted to **SynData4CV@CVPR 2024**. 
