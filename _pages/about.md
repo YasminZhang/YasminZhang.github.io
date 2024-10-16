@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student@<a href='https://www.ucla.edu/'>@UCLA</a>. Generative AI, Computer Vision, and Multimodality.
+subtitle: PhD Student@<a href='https://www.ucla.edu/'>UCLA</a>. Generative AI, Computer Vision, and Multimodality.
 
 profile:
   align: right
