@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>a memo in Seattle</p>
+    <p></p>
   
 
 news: true  # includes a list of news items
