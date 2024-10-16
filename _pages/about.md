@@ -6,11 +6,11 @@ social: true  # includes social icons at the bottom of the page
 subtitle: PhD Student@<a href='https://www.ucla.edu/'>UCLA</a>. Generative AI, Computer Vision, and Multimodality.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>in Seattle</p>
+    <p>a memo in Seattle</p>
   
 
 news: true  # includes a list of news items
