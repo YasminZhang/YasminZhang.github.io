@@ -11,6 +11,19 @@
     <!-- Standard metadata -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <style>
+        /* Add custom CSS to control the size and centering of the map */
+        #map-container {
+            width: 300px;  /* Adjust the width */
+            height: 200px; /* Adjust the height */
+            margin: 0 auto; /* Centers the map horizontally */
+            display: flex;  /* Flexbox layout for centering */
+            align-items: center; /* Vertically center the map */
+            justify-content: center; /* Horizontally center the map */
+            border: 1px solid #ccc; /* Optional border for visual clarity */
+            overflow: hidden; /* Ensure that overflow is handled */
+        }
+    </style>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>
     {%- if site.title == "blank" -%}
