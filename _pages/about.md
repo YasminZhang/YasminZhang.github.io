@@ -15,6 +15,8 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+education: true  # includes a list of education items
+experience: true  # includes a list of experience items
 
 ---
 
@@ -22,6 +24,9 @@ Greetings! I am Yasi Zhang, currently a PhD student in the Department of [Statis
 
 
 🌟 I am actively seeking research internships for the summer of 2025. 🌟
+
+
+
 
 
 
