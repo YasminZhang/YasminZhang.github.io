@@ -2,7 +2,22 @@
 ---
 <!-- _layouts/bib.html -->
 <div class="row align-items-start">
+  
   <div class="col-sm-4 abbr">
+
+
+    {% if entry.abbr %}
+    {% if site.data.venues[entry.abbr] %}
+    <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
+    {% else %}
+    <abbr class="badge">{{entry.abbr}}</abbr>
+    {% endif %}
+    {% endif %}
+
+    {% if entry.oral %}
+    <abbr class="badge">{{entry.oral}}</abbr>
+    {% endif %}
+
     {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -11,13 +26,7 @@
           {%- endif -%}
           {%- endif -%}
 
-      {% if entry.abbr %}
-      {% if site.data.venues[entry.abbr] %}
-      <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}" target="_blank">{{entry.abbr}}</a></abbr>
-      {% else %}
-      <abbr class="badge">{{entry.abbr}}</abbr>
-      {% endif %}
-      {% endif %}
+     
   </div>
 
 
