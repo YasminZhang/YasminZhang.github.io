@@ -6,13 +6,14 @@
 
 .row {
   display: flex;
+  align-items: flex-start;
   /* Ensure this exists to activate Flexbox */
 }
 
-.row .col-sm-4 {
-  margin: 0; /* Remove extra margins */
-  padding: 0; /* Remove extra padding */
-}
+// .row .col-sm-4 {
+//   margin: 0; /* Remove extra margins */
+//   padding: 0; /* Remove extra padding */
+// }
 
 
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
