@@ -4,11 +4,11 @@
 
 // Typography
 
-.row {
-  // display: flex;
-  align-items: flex-start;
-  /* Ensure this exists to activate Flexbox */
-}
+// .row {
+//   // display: flex;
+//   align-items: flex-start;
+//   /* Ensure this exists to activate Flexbox */
+// }
 
 // .row .col-sm-4 {
 //   margin: 0; /* Remove extra margins */
@@ -91,7 +91,7 @@ blockquote {
 
     .row {
       display: flex;
-      align-items: start;
+      align-items: center;
     }
   }
 }
@@ -453,7 +453,7 @@ footer.sticky-bottom {
 
     .row {
       display: flex;
-      align-items: start;
+      align-items: center;
     }
   }
 
@@ -751,4 +751,4 @@ progress {
      height: inherit;
  }
 
-}
+
