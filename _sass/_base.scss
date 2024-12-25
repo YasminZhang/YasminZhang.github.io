@@ -518,21 +518,7 @@ footer.sticky-bottom {
         margin-bottom: 5px;
         object-fit: cover;
       }
-      // .abbr {
-      //   height: 2rem;
-      //   margin-bottom: 0.5rem;
-      //   abbr {
-      //     display: inline-block;
-      //     background-color: var(--global-theme-color);
-      //     padding-left: 1rem;
-      //     padding-right: 1rem;
-      //     a {
-      //       color: white;
-      //       &:hover {
-      //         text-decoration: none;
-      //       }
-      //     }
-      //   }
+      
         .abbr {
           min-height: 150px;
           min-width: 200px;
@@ -548,7 +534,15 @@ footer.sticky-bottom {
             left: 16px;
           }
 
-        
+          .oral {
+            display: inline-block;
+            background-color: var(--global-theme-color);
+            padding-left: 1rem;
+            padding-right: 1rem;
+            position: absolute;
+            top: 52px; /* Adjust this value to place it below the abbr badge */
+            left: 16px;
+          }
 
 
         .award {
