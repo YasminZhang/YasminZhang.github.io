@@ -537,10 +537,12 @@ footer.sticky-bottom {
           .oral {
             display: inline-block;
             background-color: var(--global-theme-color);
+            color: var(--global-card-bg-color) !important;
+        // background-color: var(--global-theme-color) !important;
             padding-left: 1rem;
             padding-right: 1rem;
             position: absolute;
-            top: 52px; /* Adjust this value to place it below the abbr badge */
+            top: 30px; /* Adjust this value to place it below the abbr badge */
             left: 16px;
           }
 
