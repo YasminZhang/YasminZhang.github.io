@@ -24,3 +24,5 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+gem 'uri', '~> 1.0.2'
+
