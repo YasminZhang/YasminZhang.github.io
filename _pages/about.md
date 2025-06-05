@@ -20,7 +20,7 @@ experiences: true  # includes a list of experience items
 
 ---
 
-🌈 Greetings! I am Yasi Zhang (She/They), currently a PhD student in the Department of [Statistics and Data Science](https://statistics.ucla.edu/) at [UCLA](https://www.ucla.edu/). I'm super fortunate to be co-advised by two of the best advisors in the world, Prof. [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) and Prof. [Oscar Leong](https://www.oscarleong.com/). Previously, I earned my bachelor's degree in Data Science and Big Data Technology from [Fudan University](https://www.fudan.edu.cn/en/). I conducted an Applied Scientist internship at [Amazon AWS AI Labs](https://aws.amazon.com/) in Summer 2024 and a Student Researcher internship at [Google Research](https://research.google/) in Spring 2025.
+🌈 Greetings! I am Yasi Zhang (She/They), currently a PhD student in the Department of [Statistics and Data Science](https://statistics.ucla.edu/) at [UCLA](https://www.ucla.edu/). I'm super fortunate to be co-advised by two of the best advisors in the world, Prof. [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) and Prof. [Oscar Leong](https://www.oscarleong.com/). Previously, I earned my bachelor's degree in Data Science and Big Data Technology from [Fudan University](https://www.fudan.edu.cn/en/). I conducted an Applied Scientist internship at [Amazon AWS AI Labs](https://aws.amazon.com/) in Summer 2024 and a Student Researcher internship at [Google Research](https://research.google/) in Spring&Summer 2025.
 
 <!-- This is a comment
 
