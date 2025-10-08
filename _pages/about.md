@@ -22,6 +22,8 @@ experiences: true  # includes a list of experience items
 
 🌈 Greetings! I am Yasi Zhang (She/They), currently a PhD student in the Department of [Statistics and Data Science](https://statistics.ucla.edu/) at [UCLA](https://www.ucla.edu/). I'm super fortunate to be co-advised by two of the best advisors in the world, Prof. [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) and Prof. [Oscar Leong](https://www.oscarleong.com/). Previously, I earned my bachelor's degree in Data Science and Big Data Technology from [Fudan University](https://www.fudan.edu.cn/en/). I conducted an Applied Scientist internship at [Amazon AWS AI Labs](https://aws.amazon.com/) in Summer 2024 and a Student Researcher internship at [Google Research](https://research.google/) in Spring and Summer 2025.
 
+My research goal is to build a unified foundation for powerful multimodal generative reasoning models that can understand, align, and generate high-dimensional data across diverse modalities. 
+
 ✨ I’m actively seeking research internship opportunities for Summer 2026.
 
 <!-- This is a comment
