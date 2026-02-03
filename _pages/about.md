@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 social: true  # includes social icons at the bottom of the page
-subtitle: PhD Student@<a href='https://www.ucla.edu/'>UCLA</a>. Generative AI, Multimodality, Computer Vision, and Unsupervised Learning.
+subtitle: PhD Student@<a href='https://www.ucla.edu/'>UCLA</a>. Generative AI, Multimodality, Representation Learning, Reinforcement Learning.
 
 profile:
   align: left
