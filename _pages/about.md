@@ -24,7 +24,7 @@ experiences: true  # includes a list of experience items
 
 My current research goal is to build a unified foundation for powerful multimodal generative models capable of understanding, reasoning, and generating high-dimensional data across diverse modalities.
 
-✨ I have started searching for full-time positions in industry. Please feel free to contact me if you are interested in my background. You can find my [CV](https://yasminzhang.github.io/assets/pdf/cv.pdf) here. 
+<!-- ✨ I have started searching for full-time positions in industry. Please feel free to contact me if you are interested in my background. You can find my [CV](https://yasminzhang.github.io/assets/pdf/cv.pdf) here.  -->
 
 
 <!-- This is a comment
