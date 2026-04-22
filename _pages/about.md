@@ -14,6 +14,7 @@ profile:
   
 
 news: true  # includes a list of news items
+talks: true  # includes a list of invited talks
 selected_papers: true # includes a list of papers marked as "selected={true}"
 education: true  # includes a list of education items
 experiences: true  # includes a list of experience items
