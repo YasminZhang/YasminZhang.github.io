@@ -5,10 +5,10 @@ description: A life without pursuing the truth is unreasonable.
 date: 1999-04-22
 
 authors:
-  - name: Yasi Zhang
+  - name: 
     url: "https://yasminzhang.github.io/"
     affiliations:
-      name: UCLA
+      name: 
 
 toc:
   - name: On Truth
