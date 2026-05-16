@@ -22,4 +22,19 @@ A life without pursuing the truth is unreasonable.
 
 The solution is surprisingly not reading, reflecting, and thinking. The solution is to eat, sleep, love, and know what makes you happy in life — and just do it. People should keep a list of "things that make me happy" in case they forget, so they can check it whenever they need to. 
 
+I used to restrain myself from expressing who I am. It is dangerous to talk too much and expose oneself. People are judging. But I no longer care. That's why we open our hearts again.
+
+It is fun to take notes of what we think every day. I was angry at myself for not being able to write something complete and fluent. Now I know, poetry and sentences are me. 
+
+Affirming oneself is so hard. We are not perfect in the sense that we want to master all the styles. But all we need to do is to speak in our own style.
+
+I hope my words can comfort people like me.
+
+Few people want to pursue intellectual pleasure. No judgement. It is a biological fact. 
+
+I don't fear failure, and always want to improve in study. We should do the same in relationships. Must be easy to master if you take the time.
+
+So fun to pick up the habit of writing pieces of sentences I used to have at 16. That is me, and I never change.
+
+Try your best to understand me, because I am a genius.
 
