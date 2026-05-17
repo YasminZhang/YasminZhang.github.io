@@ -38,3 +38,17 @@ So fun to pick up the habit of writing pieces of sentences I used to have at 16.
 
 Try your best to understand me, because I am a genius.
 
+Good players play; bad players suffer.
+
+Enjoy.
+
+I am obsessed with the way I talk.
+
+I think and reflect, but I don't attack myself.
+
+People are complex. Any people. So it is ok not building relationships. It is ok not building connections. People get lonely. They try to pretend they are ok. They suffer. They play. They indulge. They sober.
+
+Finally we find someone who can listen to us and truly understand us. Otherwise, it remains shallow and not nurturing.
+
+Enjoy diverse connections. We search and search. Each connection reflects a different aspect of us. They are all me. No need to bother with the only true love. That does not exist. 命里有时终须有，命里无时莫强求。
+
