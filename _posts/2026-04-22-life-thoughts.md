@@ -16,6 +16,9 @@ toc:
 
 I record some of my thoughts for personal reflection and enjoyment.
 
+
+# May 2026
+
 A life without pursuing the truth is unreasonable.
 
 优绩主义 consumed everything, and it was hard to find inner peace. But it turns out that if you have money, time, peace, achievements, fulfillment, and treat yourself well, you can recover.
@@ -51,4 +54,12 @@ People are complex. Any people. So it is ok not building relationships. It is ok
 Finally we find someone who can listen to us and truly understand us. Otherwise, it remains shallow and not nurturing.
 
 Enjoy diverse connections. We search and search. Each connection reflects a different aspect of us. They are all me. No need to bother with the only true love. That does not exist. 命里有时终须有，命里无时莫强求。
+
+Feel frustrated when feeling not loved. You don't need to be loved by anyone, although you want to be. That's the betrayal of loving yourself.
+
+Be honest with your feelings, and build diverse relationships. Be diversely supported. Have diverse friends. And have diverse boundaries. And remember to have boundaries.
+
+Fill every day with what you like to do.
+
+All of a sudden, you get free.
 
