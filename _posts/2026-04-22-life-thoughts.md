@@ -11,7 +11,7 @@ authors:
       name: 
 
 toc:
-  - name: On Truth
+  - name: Life Thoughts
 ---
 
 I record some of my thoughts for personal reflection and enjoyment.
@@ -63,3 +63,9 @@ Fill every day with what you like to do.
 
 All of a sudden, you get free.
 
+List of happy: read alone; write alone; sleep with peace; be pure; don't talk to people; enjoy.
+
+
+Care about every organ of the body: teeth, skin, hair, hands, and back.
+
+Intimacy.
