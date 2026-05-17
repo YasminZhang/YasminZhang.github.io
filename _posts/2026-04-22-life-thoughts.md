@@ -69,3 +69,7 @@ List of happy: read alone; write alone; sleep with peace; be pure; don't talk to
 Care about every organ of the body: teeth, skin, hair, hands, and back.
 
 Intimacy.
+
+Educate the parents.
+
+Be grateful to advisors. But choose your own road to go.
