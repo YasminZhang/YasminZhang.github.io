@@ -21,7 +21,7 @@ I record some of my thoughts for personal reflection and enjoyment.
 
 A life without pursuing the truth is unreasonable.
 
-优绩主义 consumed everything, and it was hard to find inner peace. But it turns out that if you have money, time, peace, fulfillment, and treat yourself well, you can recover.
+优绩主义 consumed everything, and it was hard to find inner peace. But it turns out that if you have money, time, peace, achievements, fulfillment, and treat yourself well, you can recover.
 
 The solution is surprisingly not reading, reflecting, and thinking. The solution is to eat, sleep, love, and know what makes you happy in life — and just do it. People should keep a list of "things that make me happy" in case they forget, so they can check it whenever they need to. 
 
