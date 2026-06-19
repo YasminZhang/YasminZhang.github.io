@@ -28,7 +28,7 @@ My research agenda is to design a **mathematically principled, closed-loop unifi
 You can find my [CV](https://yasminzhang.github.io/assets/pdf/cv.pdf) here. I summarized my past research and shared my vision in these [slides](https://yasminzhang.github.io/assets/pdf/qualcomm.pdf).
 
 My work is built around a closed-loop research agenda:
-- **Multimodal Benchmarking & Algorithmic Post-Training**: [EdiVal-Agent (ICLR'26)](https://openreview.net/pdf?id=YkV0fnXgJA), [MT-EditFlow](https://yasminzhang.github.io/assets/pdf/mt-editflow.pdf), [Noiser NCE (ICLR'26)](https://openreview.net/pdf?id=qR59RrG7Om), [Lifelong RL (AISTATS'25)](https://arxiv.org/abs/2411.00401)
+- **Multimodal Benchmarking & Algorithmic Post-Training**: [EdiVal-Agent (ICLR'26)](https://openreview.net/pdf?id=YkV0fnXgJA), [MT-EditFlow](https://arxiv.org/abs/2606.01985), [Noiser NCE (ICLR'26)](https://openreview.net/pdf?id=qR59RrG7Om), [Lifelong RL (AISTATS'25)](https://arxiv.org/abs/2411.00401)
 - **Generative Alignment and Compositional Generalization**: [REAL (ICML'26)](https://arxiv.org/abs/2603.17145), [EBAMA (ECCV'24)](https://arxiv.org/abs/2404.07389), [Pheno (ECCV'24)](https://arxiv.org/abs/2403.16394)
 - **Generative Modeling under Imperfect Observations**: [RSD (ICLR'26)](https://openreview.net/pdf?id=ROGCckKICU), [Flow Priors (NeurIPS'24)](https://arxiv.org/abs/2405.18816), [ADCR](https://arxiv.org/abs/2502.00240), [Learned Regularizers (Handbook)](https://arxiv.org/abs/2510.01755)
 
