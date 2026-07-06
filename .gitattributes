@@ -1,1 +1,2 @@
 assets/pdf/main.pdf filter=lfs diff=lfs merge=lfs -text
+assets/pdf/thesis.pdf filter=lfs diff=lfs merge=lfs -text
