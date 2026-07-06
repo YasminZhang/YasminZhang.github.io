@@ -25,7 +25,7 @@ Greetings! I am Yasi Zhang (She/They), currently a PhD student in the Department
 
 **Personal Statement:** I enjoy research from both industry and academic perspectives, having gained extensive experience by collaborating and interning at a range of leading tech companies and contributing to real-world, industry-leading products. My research lies at the intersection of generative AI, multimodal foundation models, reinforcement learning, and physical inverse problems. 
 My research agenda is to design a **mathematically principled, closed-loop unified multimodal foundation** that can evaluate, align, and generate high-dimensional data across diverse modalities under realistic conditions such as imperfect observations, iterative human interaction, and noisy reward signals.
-You can find my [CV](https://yasminzhang.github.io/assets/pdf/cv.pdf) here. I summarized my past research and shared my vision in these [slides](https://yasminzhang.github.io/assets/pdf/qualcomm.pdf).
+You can find my [CV](https://yasminzhang.github.io/assets/pdf/cv.pdf) here. I summarized my past research and shared my vision in these [slides](https://yasminzhang.github.io/assets/pdf/simple_final.pdf).
 
 My work is built around a closed-loop research agenda:
 - **Multimodal Benchmarking & Algorithmic Post-Training**: [EdiVal-Agent (ICLR'26)](https://openreview.net/pdf?id=YkV0fnXgJA), [MT-EditFlow](https://arxiv.org/abs/2606.01985), [Noiser NCE (ICLR'26)](https://openreview.net/pdf?id=qR59RrG7Om), [Lifelong RL (AISTATS'25)](https://arxiv.org/abs/2411.00401)
