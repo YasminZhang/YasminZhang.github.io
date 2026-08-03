@@ -7,7 +7,7 @@ subtitle: PhD Student@<a href='https://www.ucla.edu/'>UCLA</a>. Generative AI, M
 
 profile:
   align: left
-  image: yasi_pic2.png
+  image: WechatIMG316.jpg
   image_circular: false # crops the image to make it circular
   address: >
     
