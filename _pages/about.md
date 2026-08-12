@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 social: true  # includes social icons at the bottom of the page
-subtitle: PhD Student@<a href='https://www.ucla.edu/'>UCLA</a>. Generative AI, Multimodality, Representation Learning, Reinforcement Learning.
+subtitle: PhD@<a href='https://www.ucla.edu/'>UCLA</a>. Generative AI, Multimodality, Representation Learning, Reinforcement Learning.
 
 profile:
   align: left
@@ -21,7 +21,7 @@ experiences: true  # includes a list of experience items
 
 ---
 
-Greetings! I am Yasi Zhang (She/They), currently a PhD student at [UCLA](https://www.ucla.edu/). I'm super fortunate to be co-advised by two of the best advisors in the world, Prof. [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) and Prof. [Oscar Leong](https://www.oscarleong.com/). Previously, I earned my bachelor's degree from [Fudan University](https://www.fudan.edu.cn/en/). I have conducted research internships at [ByteDance Seed](https://seed.bytedance.com/en/) (Spring & Summer 2026), [Google Research](https://research.google/) (Spring & Summer 2025), and [Amazon AWS AI Labs](https://aws.amazon.com/) (Summer 2024).
+Greetings! I am Yasi Zhang (She/They). I obtained my PhD from [UCLA](https://www.ucla.edu/). I'm super fortunate to be co-advised by two of the best advisors in the world, Prof. [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) and Prof. [Oscar Leong](https://www.oscarleong.com/). Previously, I earned my bachelor's degree from [Fudan University](https://www.fudan.edu.cn/en/). I have conducted research internships at [ByteDance Seed](https://seed.bytedance.com/en/) (Spring & Summer 2026), [Google Research](https://research.google/) (Spring & Summer 2025), and [Amazon AWS AI Labs](https://aws.amazon.com/) (Summer 2024).
 
 **Personal Statement:** I enjoy research from both industry and academic perspectives, having gained extensive experience by collaborating and interning at a range of leading tech companies and contributing to real-world, industry-leading products. My research lies at the intersection of generative AI, multimodal foundation models, reinforcement learning, and physical inverse problems. 
 My research agenda is to design a **mathematically principled, closed-loop unified multimodal foundation** that can evaluate, align, and generate high-dimensional data across diverse modalities under realistic conditions such as imperfect observations, iterative human interaction, and noisy reward signals.
