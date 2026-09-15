@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 social: true  # includes social icons at the bottom of the page
-subtitle: Research Scientist@[Google](https://about.google/), PhD@<a href='https://www.ucla.edu/'>UCLA</a>. Generative AI, Multimodality, Representation Learning, Reinforcement Learning.
+subtitle: Research Scientist@<a href='https://about.google/'>Google</a>, PhD@<a href='https://www.ucla.edu/'>UCLA</a>. Generative AI, Multimodality, Representation Learning, Reinforcement Learning.
 
 profile:
   align: left
