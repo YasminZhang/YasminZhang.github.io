@@ -7,7 +7,7 @@ subtitle: PhD@<a href='https://www.ucla.edu/'>UCLA</a>. Generative AI, Multimoda
 
 profile:
   align: left
-  image: IMG_2345.png
+  image: DSCF8521.png
   image_circular: false # crops the image to make it circular
   address: >
     
