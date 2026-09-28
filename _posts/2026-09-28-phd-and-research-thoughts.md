@@ -84,7 +84,7 @@ The ultimate goal is still to **do good research**.
 You want to make people aware of something they have missed. You want to reveal a perspective they have not seen before. You want to make something work much better, or make an idea substantially more effective and useful.
 
 
-## 7. A personal reflection on my PhD.
+## 8. A personal reflection on my PhD.
 
 When we are young researchers, we should have the ability—and maybe even the appetite—to absorb new things as they appear. New ideas, new problems, new methods, new fields, new trends. We should consume as much as we can, digest as much as we can, and try to understand how everything connects.
 
