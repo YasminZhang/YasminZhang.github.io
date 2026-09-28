@@ -111,7 +111,5 @@ I still feel confused when solving many problems, even within the areas I have w
 
 Sometimes I notice that truly exceptional researchers seem to complete this breadth-to-depth process very early. They explore quickly, understand the landscape quickly, find their direction quickly, and then go deep. In some sense, the earlier someone can complete this transition, the more extraordinary they seem to me.
 
-I am still on my way.
-
  
 
