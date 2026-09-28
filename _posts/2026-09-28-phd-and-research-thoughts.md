@@ -101,12 +101,6 @@ So my view is: **explore broadly first, find your entry point, and then go deep.
 
 ## 7. A personal reflection on my PhD.
 
-Looking back at my PhD, I think I have mostly finished the first half of this process: **breadth**.
-
-I enjoyed working on all kinds of topics. In other words, I was distracted all the time.
-
-But I think that was fine.
-
 When we are young researchers, we should have the ability—and maybe even the appetite—to absorb new things as they appear. New ideas, new problems, new methods, new fields, new trends. We should consume as much as we can, digest as much as we can, and try to understand how everything connects.
 
 I genuinely enjoy exploring. And I still believe that this instinct is good not only for research, but also for life. Exploration gives you more perspectives, more possibilities, and more ways of understanding the world.
