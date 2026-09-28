@@ -119,6 +119,5 @@ Sometimes I notice that truly exceptional researchers seem to complete this brea
 
 I am still on my way.
 
----
+ 
 
-*If this resonates with you, feel free to reach out.*
