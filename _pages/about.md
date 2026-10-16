@@ -7,7 +7,7 @@ subtitle: Research Scientist@<a href='https://about.google/'>Google</a>, PhD@<a 
 
 profile:
   align: left
-  image: DSCF8521.png
+  image: selfie.png
   image_circular: false # crops the image to make it circular
   address: >
     
@@ -48,7 +48,6 @@ My research goal is to learn generative models representations that can help gen
 - **Multimodality**: Learning from multiple modalities, such as text, image, and audio.
 -->
  
-
 
 
 
