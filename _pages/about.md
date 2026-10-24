@@ -21,7 +21,7 @@ experiences: true  # includes a list of experience items
 
 ---
 
-Greetings! I am Yasi Zhang (She/They). I am currently a research scientist at [Google](https://about.google/). I obtained my PhD from [UCLA](https://www.ucla.edu/). I'm super fortunate to be co-advised by two of the best advisors in the world, Prof. [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) and Prof. [Oscar Leong](https://www.oscarleong.com/). Previously, I earned my bachelor's degree from [Fudan University](https://www.fudan.edu.cn/en/). I have conducted research internships at [ByteDance Seed](https://seed.bytedance.com/en/) (Spring & Summer 2026), [Google Research](https://research.google/) (Spring & Summer 2025), and [Amazon AWS AI Labs](https://aws.amazon.com/) (Summer 2024).
+Greetings! I am Yasi Zhang (She/They). I am currently a research scientist at [Google](https://about.google/). I obtained my PhD from [UCLA](https://www.ucla.edu/). I'm super fortunate to be co-advised by two of the best advisors in the world, Prof. [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) and Prof. [Oscar Leong](https://www.oscarleong.com/). Previously, I earned my bachelor's degree from [Fudan University](https://www.fudan.edu.cn/en/). I have conducted research internships at [ByteDance Seed](https://seed.bytedance.com/en/) (Spring & Summer 2026), [Google](https://research.google/) (Spring & Summer 2025), and [Amazon AWS AI Labs](https://aws.amazon.com/) (Summer 2024).
 
 <section class="research-agenda-card" markdown="1">
 
@@ -52,7 +52,6 @@ My research goal is to learn generative models representations that can help gen
 - **Multimodality**: Learning from multiple modalities, such as text, image, and audio.
 -->
  
-
 
 
 
