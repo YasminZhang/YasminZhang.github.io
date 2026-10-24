@@ -40,6 +40,11 @@ layout: default
             {{ content }}
           </div>
 
+          {% if page.education or page.experiences -%}
+          <!-- Education and experience -->
+          {%- include education_experience.html %}
+          {%- endif %}
+
           {% if page.news -%}
           <!-- News -->
           {%- include news.html %}

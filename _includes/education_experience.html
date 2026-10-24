@@ -1,0 +1,59 @@
+<div class="background-cards">
+  {% if page.education -%}
+  <section class="background-card" aria-labelledby="education-heading">
+    <h2 id="education-heading">Education</h2>
+    <ul class="background-list">
+      <li>
+        <div class="background-entry-heading">
+          <strong>University of California, Los Angeles</strong>
+          <span class="background-date">2022.09 – 2026.09</span>
+        </div>
+        <p>PhD in Artificial Intelligence and Machine Learning</p>
+      </li>
+      <li>
+        <div class="background-entry-heading">
+          <strong>Fudan University</strong>
+          <span class="background-date">2018.09 – 2022.06</span>
+        </div>
+        <p>B.S. in Artificial Intelligence</p>
+      </li>
+    </ul>
+  </section>
+  {%- endif %}
+
+  {% if page.experiences -%}
+  <section class="background-card" aria-labelledby="experience-heading">
+    <h2 id="experience-heading">Experience</h2>
+    <ul class="background-list">
+      <li>
+        <div class="background-entry-heading">
+          <strong>Google</strong>
+          <span class="background-date">2026.09 – Present</span>
+        </div>
+        <p>Research Scientist</p>
+      </li>
+      <li>
+        <div class="background-entry-heading">
+          <strong>ByteDance Seed</strong>
+          <span class="background-date">Spring &amp; Summer 2026</span>
+        </div>
+        <p>Student Researcher</p>
+      </li>
+      <li>
+        <div class="background-entry-heading">
+          <strong>Google Research</strong>
+          <span class="background-date">Spring &amp; Summer 2025</span>
+        </div>
+        <p>Student Researcher</p>
+      </li>
+      <li>
+        <div class="background-entry-heading">
+          <strong>Amazon AWS AI Labs</strong>
+          <span class="background-date">Summer 2024</span>
+        </div>
+        <p>Applied Scientist Intern</p>
+      </li>
+    </ul>
+  </section>
+  {%- endif %}
+</div>
