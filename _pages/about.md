@@ -23,14 +23,18 @@ experiences: true  # includes a list of experience items
 
 Greetings! I am Yasi Zhang (She/They). I am currently a research scientist at [Google](https://about.google/). I obtained my PhD from [UCLA](https://www.ucla.edu/). I'm super fortunate to be co-advised by two of the best advisors in the world, Prof. [Ying Nian Wu](http://www.stat.ucla.edu/~ywu/research.html) and Prof. [Oscar Leong](https://www.oscarleong.com/). Previously, I earned my bachelor's degree from [Fudan University](https://www.fudan.edu.cn/en/). I have conducted research internships at [ByteDance Seed](https://seed.bytedance.com/en/) (Spring & Summer 2026), [Google Research](https://research.google/) (Spring & Summer 2025), and [Amazon AWS AI Labs](https://aws.amazon.com/) (Summer 2024).
 
+<section class="research-agenda-card" markdown="1">
+
 **Personal Statement during My PhD:** I enjoy research from both industry and academic perspectives, having gained extensive experience by collaborating and interning at a range of leading tech companies and contributing to real-world, industry-leading products. My research lies at the intersection of generative AI, multimodal foundation models, reinforcement learning, and physical inverse problems. 
 My research agenda is to design a **mathematically principled, closed-loop unified multimodal foundation** that can evaluate, align, and generate high-dimensional data across diverse modalities under realistic conditions such as imperfect observations, iterative human interaction, and noisy reward signals.
  I summarized my past research and shared my vision in these [slides](https://yasminzhang.github.io/assets/pdf/simple_final.pdf).
 
 My work is built around a closed-loop research agenda:
-- **Multimodal Benchmarking & Algorithmic Post-Training**: [EdiVal-Agent (ICLR'26)](https://openreview.net/pdf?id=YkV0fnXgJA), [MT-EditFlow](https://arxiv.org/abs/2606.01985), [Noiser NCE (ICLR'26)](https://openreview.net/pdf?id=qR59RrG7Om), [Lifelong RL (AISTATS'25)](https://arxiv.org/abs/2411.00401)
-- **Generative Alignment and Compositional Generalization**: [REAL (ICML'26)](https://arxiv.org/abs/2603.17145), [EBAMA (ECCV'24)](https://arxiv.org/abs/2404.07389), [Pheno (ECCV'24)](https://arxiv.org/abs/2403.16394)
-- **Generative Modeling under Imperfect Observations**: [RSD (ICLR'26)](https://openreview.net/pdf?id=ROGCckKICU), [Flow Priors (NeurIPS'24)](https://arxiv.org/abs/2405.18816), [ADCR](https://arxiv.org/abs/2502.00240), [Learned Regularizers (Handbook)](https://arxiv.org/abs/2510.01755)
+- **Multimodal Benchmarking & Algorithmic Post-Training**: [EdiVal-Agent](https://openreview.net/pdf?id=YkV0fnXgJA) (ICLR'26), [MT-EditFlow](https://arxiv.org/abs/2606.01985), [Noiser NCE](https://openreview.net/pdf?id=qR59RrG7Om) (ICLR'26), [Lifelong RL](https://arxiv.org/abs/2411.00401) (AISTATS'25)
+- **Generative Alignment and Compositional Generalization**: [REAL](https://arxiv.org/abs/2603.17145) (ICML'26), [EBAMA](https://arxiv.org/abs/2404.07389) (ECCV'24), [Pheno](https://arxiv.org/abs/2403.16394) (ECCV'24)
+- **Generative Modeling under Imperfect Observations**: [RSD](https://openreview.net/pdf?id=ROGCckKICU) (ICLR'26), [Flow Priors](https://arxiv.org/abs/2405.18816) (NeurIPS'24), [ADCR](https://arxiv.org/abs/2502.00240), [Learned Regularizers](https://arxiv.org/abs/2510.01755) (Handbook)
+
+</section>
 
 <!-- ✨ I have started searching for full-time positions in industry. Please feel free to contact me if you are interested in my background. You can find my [CV](https://yasminzhang.github.io/assets/pdf/cv.pdf) here.  -->
 
@@ -48,7 +52,6 @@ My research goal is to learn generative models representations that can help gen
 - **Multimodality**: Learning from multiple modalities, such as text, image, and audio.
 -->
  
-
 
 
 

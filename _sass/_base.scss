@@ -105,7 +105,7 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
+  width: 50%;
 
   .address {
     margin-bottom: 5px;
@@ -126,10 +126,42 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 15%;
     .address {
       p { display: block; }
     }
+  }
+}
+
+// Research statement and agenda card
+
+.research-agenda-card {
+  clear: both;
+  margin: 1.75rem 0 2rem;
+  padding: 1.35rem 1.5rem;
+  border: 1px solid var(--global-divider-color);
+  border-left: 3px solid var(--global-theme-color);
+  border-radius: 0.5rem;
+  background: var(--global-card-bg-color);
+  box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+
+  p:last-of-type {
+    margin-bottom: 0.75rem;
+  }
+
+  ul {
+    margin-bottom: 0;
+    padding-left: 1.25rem;
+  }
+
+  li + li {
+    margin-top: 0.45rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .research-agenda-card {
+    padding: 1.1rem 1.15rem;
   }
 }
 
@@ -812,4 +844,3 @@ progress {
      display: block;
      height: inherit;
  }
-
